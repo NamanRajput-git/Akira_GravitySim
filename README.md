@@ -25,8 +25,8 @@ A 2D gravity simulation built in Java using **Swing**. Create celestial bodies, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/akira-gravity-simulation.git
-   cd akira-gravity-simulation
+   git clone https://github.com/NamanRajput-git/Akira_GravitySim.git
+   cd akira_GravitySim
 
 
   Open in IntelliJ:
@@ -50,14 +50,14 @@ Based on Newton's Law of Universal Gravitation:
 Euler integration for position and velocity updates.
 
 ##📸 Screenshots
-(You can add a screenshot here once it's running)
+    (You can add a screenshot here once it's running)
 
 
 ##📄 License
-This project is licensed under the MIT License — feel free to use and modify.
+    This project is licensed under the MIT License — feel free to use and modify.
 
 ##🤝 Contributing
-Pull requests are welcome! If you have cool ideas (collisions? orbit trails? black holes?), bring them in.
+   Pull requests are welcome! If you have cool ideas (collisions? orbit trails? black holes?), bring them in.
 
 ##⭐️ If you like this project...
-Give it a star 🌟 on GitHub!
+    Give it a star 🌟 on GitHub!
